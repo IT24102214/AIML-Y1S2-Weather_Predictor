@@ -1,0 +1,15 @@
+This project aims to predict whether it will rain tomorrow based on historical weather data. Using machine learning techniques, we've built a comprehensive preprocessing pipeline and predictive model to forecast rainfall with high accuracy.
+
+Key Objectives:
+
+Clean and preprocess raw weather data
+
+Handle missing values and outliers
+
+Engineer meaningful features
+
+Balance the dataset to address class imbalance
+
+Build and evaluate predictive models
+
+Provide date-specific predictions for practical use
